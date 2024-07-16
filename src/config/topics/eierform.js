@@ -53,7 +53,7 @@ export default {
       size: 'large',
       heading: 'Kommunale boliger',
       about: {
-        info: '<p>Tabellen omfatter kommunale boliger i Oslo per 1.1. Omsorg pluss boliger er med, men ikke presteboliger. Oslo kommune er selv eier av de fleste kommunale boliger.</p></p>I sameier, borettslag og aksjeselskap eier Oslo kommune en eller flere boliger, mens i kommunale eiendommer eier Oslo kommune både bygning og alle boligene.</p>',
+        info: '<p>Tabellen omfatter kommunale boliger i Oslo per 31.12 hvert år. Omsorg pluss boliger er med, men ikke presteboliger. Oslo kommune er selv eier av de fleste kommunale boliger.</p></p>I sameier, borettslag og aksjeselskap eier Oslo kommune en eller flere boliger, mens i kommunale eiendommer eier Oslo kommune både bygning og alle boligene.</p>',
         sources: [source.ssb, source.oslo],
         externalInfo:
           'https://statistikkbanken.oslo.kommune.no/statbank/pxweb/no/db1/db1__Boliger%20og%20byggevirksomhet__Kommunale%20boliger/',
